@@ -3,6 +3,7 @@ This repository contains my personal notes from the Google Git and GitHub course
 
 
 📌 What's Inside
+
 ➤ Core Git concepts (commits, branches, merges, etc.)
 
 ➤ GitHub basics (repositories, pull requests, collaboration)
@@ -15,6 +16,7 @@ These notes are designed to help beginners understand and use Git and GitHub wit
 
 
 🚀 Why This Repo?
+
 ➤ I created these notes while learning Git and GitHub to:
   
 ➤ Reinforce my understanding
@@ -25,6 +27,7 @@ These notes are designed to help beginners understand and use Git and GitHub wit
 
 
 🧠 Learning Source
+
 ➤ Google Git and GitHub – Coursera
 
 ➤ Personal experimentation and AI-powered explanations
