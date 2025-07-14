@@ -19,8 +19,11 @@ These notes are designed to help beginners understand and use Git and GitHub wit
 🚀 Why This Repo?
 
 ➤ I created these notes while learning Git and GitHub to:
+
 ➤ Reinforce my understanding
+
 ➤ Share with others who are just starting out
+
 ➤ Use as a quick reference for future projects
 
 -----------------
