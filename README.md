@@ -1,4 +1,4 @@
-📘 MY GIT & GITHUB NOTES\
+📘 MY GIT & GITHUB NOTES
 
 This repository contains my personal notes from the Google Git and GitHub course on Coursera, combined with insights from additional research and ChatGPT assistance.
 
